@@ -5,5 +5,5 @@ function getFormvalue() {
 	alert("First Name: " + firstName + "\nLast Name: " + lastName);
 
 }
-document.getElementById('form1').addEventListener('submit', getFormValue);
+document.getElementById('form1').addEventListener('submit', getFormvalue);
 
